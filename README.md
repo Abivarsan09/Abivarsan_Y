@@ -36,13 +36,13 @@
 The metrics below display consolidated tracking data from my entire repository codebase—including all development branches and integrated project histories.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abivarsan09&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Flight Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abivarsan09&layout=compact&theme=tokyonight&hide_border=true" alt="Language Payloads" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abivarsan-Y&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Flight Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abivarsan-Y&layout=compact&theme=tokyonight&hide_border=true" alt="Language Payloads" width="48%" />
 </p>
 
 ### 📈 Mission Duration Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abivarsan09&theme=tokyonight&hide_border=true" alt="System Activity" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abivarsan-Y&theme=tokyonight&hide_border=true" alt="System Activity" width="100%" />
 </p>
 
 ---
