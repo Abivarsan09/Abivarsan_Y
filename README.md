@@ -1,51 +1,59 @@
 # Abivarsan_Y
 
-# 🚀 Flight Command Dashboard
+# ✈️ Avionics Flight Control Command Center
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Aspiring+Avionics+%26+Robotics+Engineer;Computer+Systems+Engineering+Student;Bridging+Digital+Logic+with+Autonomous+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Initializing+Flight+Control+Telemetry...;System+Status:+Optimal;Target:+Avionics+%26+Robotics+Engineering" alt="Flight Systems Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Aeronautics-Exploration-00D2FF?style=for-the-badge&logo=nasa&logoColor=white" />
-  <img src="https://img.shields.io/badge/Avionics-Embedded_Systems-FF5733?style=for-the-badge&logo=cpu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Robotics-Kinematics_%26_Control-🚀?style=for-the-badge" />
-</p>
-
----
-
-## 🛠️ Hardware Project Spotlight
-
-### 🖥️ 8-Op ALU & 6x4 Memory Unit Integration
-* [cite_start]**Architecture:** Designed and simulated an 8-operation Arithmetic Logic Unit (ALU) integrated with a $6 \times 4$ custom memory architecture[cite: 6].
-* [cite_start]**Digital Logic:** Implemented core computational components including Adders, Subtractors, and custom Multiplexer (MUX) logic hierarchies[cite: 3].
-* [cite_start]**System Integration:** Managed complex digital logic schemas and resolved intricate simulation-level binary architectures inside Multisim (`.ms12`)[cite: 2, 33].
-
----
-
-## 📊 Live System Metrics (Dynamic Stats)
-
-Here is the real-time telemetry from my coding repository:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abivarsan09&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abivarsan09&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-### 📈 Contribution Streak Telemetry
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abivarsan09&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+  <img src="https://img.shields.io/badge/Aeronautics-Aerodynamics_&_Design-00D2FF?style=for-the-badge&logo=nasa&logoColor=white" />
+  <img src="https://img.shields.io/badge/Avionics-Embedded_Flight_Computers-FF5733?style=for-the-badge&logo=cpu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Robotics-Autonomous_Control_Systems-4AAF42?style=for-the-badge&logo=ros&logoColor=white" />
 </p>
 
 ---
 
-## 🧰 Tech Stack Matrix
+## 🛰️ Current Mission Checklist & Flight Plan
+> **Mission Control Directive:** Tracking live milestones in Computer Systems Architecture bridging into Autonomous Robotics.
 
-| Category | Technologies |
+- [x] **Milestone 1: Logic Core Architecture**
+  - [x] Design custom $6 \times 4$ localized memory mapping matrix.
+  - [x] Configure and interconnect 8-Operation Arithmetic Logic Unit (ALU).
+  - [x] Debug and resolve hardware execution conflicts inside Multisim binary trees (`.ms12`).
+- [ ] **Milestone 2: Embedded Avionics & Telemetry**
+  - [ ] Implement Proportional-Integral-Derivative (PID) loop feedback controllers in C/C++.
+  - [ ] Interface Microcontroller Unit (MCU) registers with external sensor arrays (IMU/Gyroscope).
+  - [ ] Establish communication pipelines over SPI/I2C protocols.
+- [ ] **Milestone 3: Robotics Integration**
+  - [ ] Configure Forward/Inverse Kinematics controllers for automated mechanical arms.
+  - [ ] Deploy Robot Operating System (ROS2) nodes for autonomous navigation.
+
+---
+
+## 📊 Live Telemetry Instrument Panel
+
+The metrics below display consolidated tracking data from my entire repository codebase—including all development branches and integrated project histories.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Flight Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Language Payloads" width="48%" />
+</p>
+
+### 📈 Mission Duration Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="System Activity" width="100%" />
+</p>
+
+---
+
+## 🧰 Engineering Tech Stack Matrix
+
+| Flight System Domain | Core Hardware & Software Implementations |
 | :--- | :--- |
-| **Languages** | `C` `C++` `Python` |
-| **Hardware / Logic** | [cite_start]Multisim (`.ms12`), Digital Logic Design, ALU Architecture, Memory Mapping [cite: 2, 3, 6] |
-| **Version Control** | [cite_start]Git, Advanced Terminal Workflows, Remote Upstream Logic [cite: 1, 2] |
+| **System Programming** | `C` `C++` `Python` `Embedded Logic` |
+| **Hardware & Avionics Tools**| Multisim Simulation, Microprocessor Memory Architectures, ALU Operations |
+| **Version Control Systems** | Advanced Git Command Line Operations, Remote Branch Routing, Binary Conflict Mapping |
 
 ---
 
@@ -53,9 +61,9 @@ Here is the real-time telemetry from my coding repository:
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ground Control LinkedIn" />
   </a>
   <a href="mailto:YOUR_PERSONAL_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Secure_Comm_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Comms Email" />
   </a>
 </p>
